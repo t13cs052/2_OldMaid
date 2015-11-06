@@ -21,7 +21,7 @@ public class Card {
 	public static final int HEART   = 4;
 
 	/** プロパティ */
-	/** カードの示すスート */
+	/** カードの示すスート(マーク) */
 	private int suit_;
 	
 	/** カードの示す数 */
